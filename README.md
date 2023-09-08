@@ -109,11 +109,3 @@
 	
 </details>
 	
-
-</br></br>
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	![Snake animation](https://github.com/aldiramdhan/aldiramdhan/blob/output/github-contribution-grid-snake.svg)
-</p>
